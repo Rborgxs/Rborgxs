@@ -1,10 +1,10 @@
 # 👨🏽‍💻 Ronyel Borges
 
-**`Desenvolvedor`**
+**`Aspirante à Engenheiro de Software`**
 
-dhnsdassabadbasns [eu](https) sbjdo </p>
-
-
+<p><i>Hello World!</i><br/>
+Sou um estudante em busca do crescimento profissional e estou cursando <strong>Informática para a Internet</strong> no SENAI CIMATEC, sempre aprimorando meus conhecimentos no universo da tecnologia da informação e em tudo o que faz a internet girar.<br/> 
+Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
 
 ### 📚 Minha Stack
 
@@ -85,22 +85,34 @@ dhnsdassabadbasns [eu](https) sbjdo </p>
 #
 
 ### 🎯 GitHub Stats
+
 <div align="left" gap="10px">
     <img 
         alt="GitHub Stats"
         height="150px"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=dark&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=dark&locale=pt-br&icon_color=ffffff#gh-dark-mode-only"
     />
     <img 
         alt="GitHub Stats"
         height="150px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=dark&layout=compact&custom_title=Tecnologias&locale=pt-br&langs_count=9#gh-dark-mode-only"
+    />  
+    <img 
+        alt="GitHub Stats"
+        height="150px"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=default&locale=pt-br&icon_color=262626#gh-light-mode-only"
+    />
+    <img 
+        alt="GitHub Stats"
+        height="150px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=default&layout=compact&locale=pt-br&custom_title=Tecnologias&langs_count=9#gh-light-mode-only"
     />  
 </div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
