@@ -91,23 +91,12 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
         alt="GitHub Stats"
         height="150px"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only&locale=pt-br&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=dark&locale=pt-br&icon_color=ffffff"
     />
     <img 
         alt="GitHub Stats"
         height="150px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=dark#gh-dark-mode-only&layout=compact&custom_title=Tecnologias&locale=pt-br&langs_count=9"
-    />  
-    <img 
-        alt="GitHub Stats"
-        height="150px"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=default#gh-light-mode-only&locale=pt-br&icon_color=262626"
-    />
-    <img 
-        alt="GitHub Stats"
-        height="150px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=default#gh-light-mode-only&layout=compact&locale=pt-br&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=dark&layout=compact&custom_title=Tecnologias&locale=pt-br&langs_count=9"
     />  
 </div>
 
