@@ -79,7 +79,7 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
 
 <div> 
   <a href="mailto:rborges.silva08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/ronyel-borges"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ronyel-borges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 #
