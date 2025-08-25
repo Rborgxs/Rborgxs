@@ -53,16 +53,6 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-<img 
-    align="left"
-    title="C"
-    alt="C"
-    width="40px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-
 <img 
     align="left"
     title="Figma"
