@@ -34,14 +34,32 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-          
+
 <img 
     align="left"
-    title="BootStrap"
-    alt="BootStrap"
+    title="NodeJS"
+    alt="NodeJS"
     width="40px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left"
+    title="MySQL"
+    alt="MySQL"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left"
+    title="Python"
+    alt="Python"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img 
