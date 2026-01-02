@@ -1,9 +1,9 @@
 # 👨🏽‍💻 Ronyel Borges
 
-**`Aspirante à Engenheiro de Software`**
+**`Informática para Internet`**
 
 <p><i>Hello World!</i><br/>
-Sou um estudante em busca do crescimento profissional e estou cursando <strong>Informática para a Internet</strong> no SENAI CIMATEC, sempre aprimorando meus conhecimentos no universo da tecnologia da informação e em tudo o que faz a internet girar.<br/> 
+Gosto bastante de usar o GitHub para expandir meus conhecimentos em diversas linguagens e tecnologias, então você pode encontrar desde pequenas aplicações até projetos mais complexos feitos com paixão. Tenho formação em <strong>Informática para a Internet</strong> pelo SENAI CIMATEC e almejo me tornar um Software Engineer.
 Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
 
 ### 📚 Minha Stack
