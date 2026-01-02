@@ -70,15 +70,6 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<img 
-    align="left"
-    title="Figma"
-    alt="Figma"
-    width="40px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
           
 
 <br/>
@@ -99,12 +90,12 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
         alt="GitHub Stats"
         height="150px"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=rborgxs&hide=contribs,prs&show_icons=true&theme=dark&locale=pt-br&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=Rborgxs&hide=contribs,prs&show_icons=true&theme=dark&locale=pt-br&icon_color=ffffff"
     />
     <img 
         alt="GitHub Stats"
         height="150px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rborgxs&theme=dark&layout=compact&custom_title=Tecnologias&locale=pt-br&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rborgxs&theme=dark&layout=compact&custom_title=Tecnologias&locale=pt-br&langs_count=9"
     />  
 </div>
 
