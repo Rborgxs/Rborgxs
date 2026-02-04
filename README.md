@@ -10,14 +10,14 @@
 Gosto bastante de usar o GitHub para expandir meus conhecimentos em diversas linguagens e tecnologias, então você pode encontrar desde pequenas aplicações até projetos mais complexos feitos com paixão. Tenho formação em <strong>Informática para a Internet</strong> pelo SENAI CIMATEC e almejo me tornar um Computer Scientist.
 Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
+<div align="center" style="display: inline_block" gap=5px><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
 </div>
 
 <br/>        
@@ -25,7 +25,7 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
 <br/>
 
 <div align="center">
-**`Informática para Internet`**
+  <b>**`Informática para Internet`**</b>
 </div>
 <div align="center"> 
   <a href="mailto:rborges.silva08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
