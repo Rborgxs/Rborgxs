@@ -3,7 +3,7 @@
 **`Informática para Internet`**
 
 <div align="center" width="60%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f6fff6&width=900&size=22&center=true&lines=Hello+World!;Seja+bem-vindo+(a).;Sou+técnico+em+informática!;Fique+a+vontade+com+meus+projetos." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f6fff6&width=900&size=22&center=true&lines=Hello+World!;Seja+bem-vindo+ao+meu+mundo.;Fique+a+vontade+com+meus+projetos." alt="Typing SVG"/>
 </div>
 
 <p><i>Hello World!</i><br/>
@@ -11,19 +11,22 @@ Gosto bastante de usar o GitHub para expandir meus conhecimentos em diversas lin
 Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
-  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
 </div>
 
 <br/>        
 <hr/>
 <br/>
 
+<div align="center">
+**`Informática para Internet`**
+</div>
 <div align="center"> 
   <a href="mailto:rborges.silva08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronyel-borges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
