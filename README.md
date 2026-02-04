@@ -11,15 +11,14 @@ Gosto bastante de usar o GitHub para expandir meus conhecimentos em diversas lin
 Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git-Dark.svg"> 
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
+  <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
 </div>
-
 
 <br/>        
 <hr/>
