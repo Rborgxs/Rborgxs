@@ -2,6 +2,10 @@
 
 **`Informática para Internet`**
 
+<div align="center" width="60%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f6fff6&width=900&size=22&center=true&lines=Hello+World!;Seja+bem+vindo+(a);Fique+a+vontade+com+meus+projetos" alt="Typing SVG"/>
+</div>
+
 <p><i>Hello World!</i><br/>
 Gosto bastante de usar o GitHub para expandir meus conhecimentos em diversas linguagens e tecnologias, então você pode encontrar desde pequenas aplicações até projetos mais complexos feitos com paixão. Tenho formação em <strong>Informática para a Internet</strong> pelo SENAI CIMATEC e almejo me tornar um Computer Scientist.
 Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
