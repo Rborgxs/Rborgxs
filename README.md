@@ -19,18 +19,15 @@ Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias e
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
 </div>
-
-<br/>        
-<hr/>
-<br/>
-
-<div align="center">
-  <b>**`Informática para Internet`**</b>
-</div>
+<br/>   
 <div align="center"> 
   <a href="mailto:rborges.silva08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronyel-borges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br/>        
+<hr/>
+<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
