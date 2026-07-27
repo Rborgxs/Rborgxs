@@ -1,34 +1,60 @@
-# 👨🏽‍💻 Ronyel Borges
+<div align="center">
 
-**`Informática para Internet`**
+# Ronyel Borges
 
-<div align="center" width="60%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f6fff6&width=900&size=22&center=true&lines=Hello+World!;Seja+bem-vindo+ao+meu+mundo.;Fique+a+vontade+com+meus+projetos." alt="Typing SVG"/>
+`Full Stack Developer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=900&lines=Hello+World!;Welcome+to+my+world.;Feel+free+to+explore+my+projects."/>
+
 </div>
 
-<p><i>Hello World! 👋🏽</i><br/>
-Gosto bastante de usar o GitHub para expandir meus conhecimentos em diversas linguagens e tecnologias, então você pode encontrar desde pequenas aplicações até projetos mais complexos feitos com paixão. Tenho formação em <strong>Informática para a Internet</strong> pelo SENAI CIMATEC e almejo me tornar um Computer Scientist.
-Para mim, cada dia é uma nova chance de aprender, criar e transformar ideias em código.</p>
+Hello World! 👋🏽
 
-<div align="center" style="display: inline_block" gap=5px><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> 
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"> 
-</div>
-<br/>   
-<div align="center"> 
-  <a href="mailto:rborges.silva08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronyelborges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+I enjoy using GitHub to expand my knowledge across different programming languages and technologies, where I build everything from small applications to complete full stack projects. I graduated in Internet Informatics from SENAI CIMATEC and I'm always looking for new challenges that help me improve my skills, create innovative solutions, and transform ideas into code.
+
+<br>
+
+<div align="center">
+
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
+
 </div>
 
-<br/>        
-<hr/>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/Rborgxs?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=10192e"/>
+
+<a href="mailto:rborges.silva08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ronyelborges/">
+<img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center" gap=20px>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rborgxs&theme=github_dark"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rborgxs&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
