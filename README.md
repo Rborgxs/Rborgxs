@@ -1,10 +1,8 @@
 <div align="center">
 
-# Ronyel Borges
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=900&lines=Hello+World!;Welcome+to+my+world.;Feel+free+to+explore+my+projects."/>
 
 `Full Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=900&lines=Hello+World!;Welcome+to+my+world.;Feel+free+to+explore+my+projects."/>
 
 </div>
 
