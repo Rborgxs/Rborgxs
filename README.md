@@ -8,7 +8,7 @@
 
 Hello World! 👋🏽
 
-I enjoy using GitHub to expand my knowledge across different programming languages and technologies, where I build everything from small applications to complete full stack projects. I graduated in Internet Informatics from SENAI CIMATEC and I'm always looking for new challenges that help me improve my skills, create innovative solutions, and transform ideas into code.
+My name is Ronyel and i enjoy using GitHub to expand my knowledge across different programming languages and technologies, where I build everything from small applications to complete full stack projects. Then, i'm always looking for new challenges that help me improve my skills, create innovative solutions, and transform ideas into code.
 
 <br>
 
