@@ -18,8 +18,13 @@ My name is Ronyel and i enjoy using GitHub to expand my knowledge across differe
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg"/>
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
+<img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg"/>
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
 <img width="46" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
 
